@@ -4,4 +4,4 @@ This include a docx file:
     + Basic knowledge of Apache Hive: hive architecture, how its work,...
     + How to install Hadoop
     + How to install Hive    
-All the text all are data which is use for our project    
+All the txt file are data which is use for our project    
