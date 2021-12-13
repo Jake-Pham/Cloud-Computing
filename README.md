@@ -4,4 +4,5 @@ This include a docx file:
     + Basic knowledge of Apache Hive: hive architecture, how its work,...
     + How to install Hadoop
     + How to install Hive    
-All the txt file are data which is use for our project    
+The data file includes data we use for our project
+The Create Table.txt includes command we use to create table in Hive
